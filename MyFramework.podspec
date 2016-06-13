@@ -9,5 +9,6 @@ s.source       = { :git => "https://github.com/136357477/MyFramework.git", :tag 
 s.platform     = :ios
 s.source_files  = "MyFramework/**/*.swift"
 s.resources = "MyFramework/**/*.{png,xib,storyboard}"
+
 end
 
